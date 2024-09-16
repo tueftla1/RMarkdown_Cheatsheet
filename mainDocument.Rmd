@@ -21,3 +21,4 @@ Now there must be done some enhancements (third commit)
 Doing a push after the pull request
 
 Again a commit Enhancements 1
+The second commit for Enhancements
