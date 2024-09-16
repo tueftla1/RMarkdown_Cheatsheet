@@ -10,3 +10,4 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 You can embed an R code chunk like this:
 
 Now the Rmd file get's more and more processed...
+Adding the new Folder
