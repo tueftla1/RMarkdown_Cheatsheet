@@ -26,3 +26,4 @@ The second commit for Enhancements
 
 
 A [link](https://github.com/tueftla1/RMarkdown_Trial/blob/main/docs/Documents/YAMLHeader.Rmd) to the rmd file and a <a href="/RMarkdown_Trial/Documents/YAMLHeader.html">link</a> to the rendered html file.
+Is it also possible to do the first [link](https://tueftla1.github.io/RMarkdown_Trial/Documents/YAMLHeader.Rmd) in another way?!
