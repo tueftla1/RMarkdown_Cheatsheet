@@ -25,4 +25,4 @@ The second commit for Enhancements
 
 
 
-A [link](https://github.com/tueftla1/RMarkdown_Trial/blob/main/Documents/YAMLHeader.Rmd) to the rmd file and a [link](https://github.com/tueftla1/RMarkdown_Trial/blob/main/Documents/YAMLHeader.html) to the rendered file.
+A [link](https://github.com/tueftla1/RMarkdown_Trial/blob/main/docs/Documents/YAMLHeader.Rmd) to the rmd file and a [link](https://github.com/tueftla1/RMarkdown_Trial/blob/main/docs/Documents/YAMLHeader.html) to the rendered file.
