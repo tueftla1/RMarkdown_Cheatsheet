@@ -15,3 +15,4 @@ Adding the new Folder
 Now we have to do something and therefore we create a new branch and do the changes here and then doing an
 Fast-Forward-Merge to to main-branch
 Enter more content (first commit)
+There are some even more changes necessary (second commit)
