@@ -19,3 +19,5 @@ There are some even more changes necessary (second commit)
 Now there must be done some enhancements (third commit)
 
 Doing a push after the pull request
+
+Again a commit Enhancements 1
