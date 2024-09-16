@@ -1,0 +1,10 @@
+---
+title: "First R Markdown Document"
+author: "My name"
+date: "Last edited: `r format(Sys.time(), '%d.%m.%Y')`"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.
+
+You can embed an R code chunk like this:
